@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Java Home Manula Deploy!</h2>
+<h2 style="color; red">Java Home Automated Deploy!</h2>
 </body>
 </html>
