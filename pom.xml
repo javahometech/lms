@@ -4,7 +4,7 @@
   <groupId>in.javahome</groupId>
   <artifactId>lms</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-RELEASE</version>
   <name>lms Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
